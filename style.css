@@ -19,8 +19,9 @@ nav ul {
     display: flex;
     justify-content: flex-start;
     list-style: none;
+    margin-left: 3rem;
 }
 
 ul li {
-    margin-left: 3rem;
+    margin-right: 2rem;
 }
